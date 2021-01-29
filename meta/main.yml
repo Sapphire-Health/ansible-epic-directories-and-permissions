@@ -1,0 +1,9 @@
+---
+  galaxy_info:
+    role_name: ansible-epic-directories-and-permissions
+    author: Lyas Spiehler
+    description: Ansible role to create required directories and configure permissions for Epic RHEL servers
+    company: Sapphire Health
+  collections: []
+  dependencies: []
+...
